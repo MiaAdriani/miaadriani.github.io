@@ -1,0 +1,48 @@
+++--------------------------------[ RESULT YS ]-----------------------------++
+++--------------------------------[ LOGIN DETAILS ]-------------------------------++
+Apple ID   : millarddonnaj@yahoo.com
+Password   : Bananas-3
+++--------------------------------[ CARD DETAILS ]-------------------------------++
+Bank   : CHASE
+Type   : VISA - CREDIT
+Level   : TRADITIONAL
+Cardholders    : Donna J Millard
+CC Number  : 4147400258449485 
+Expired  : 03/2024
+CVV   : 506
+AMEX CID   : 
+Sort Code  : 
+Credit Limit : 
+Copy   : 4147400258449485|03|24|506
+++--------------------------[ JAPAN INFO p++
+WEB ID      : 
+Card Password    : 
+++-------------------------[ PERSONAL INFORMATION ]--------------------------------++
+First Name  : Donna
+Last Name  : Millard
+Address  : 642 Easy Rd
+City   : Ohio
+State   : Illinois
+Country  : United States
+Zip   : 61349
+BirthDay  : 30/06/1948
+Phone   : 8158663548
+++------------------------[ SOCIAL INFORMATION ]------------------------------++
+ID Number     : 
+Civil ID     : 
+Qatar ID     : 
+National ID    : 
+Citizen ID     : 
+Passport Number   : 
+Bank Access Number         : 
+Social Insurance Number : 
+Social Security Number  : 395-52-9629
+session/ Number    : 
+OSID Number    : 
+++--------------------------[ PC INFORMATION ]--------------------------------++
+IP Address  : 174198.38.248
+Region      : Illinois
+City      : Schaumburg
+Continent  : North America
+Timezone  : America/Chicago
+OS/Browser  : iPhone / Handheld Browser
